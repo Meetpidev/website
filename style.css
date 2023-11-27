@@ -84,43 +84,6 @@ header .header-right .hamburger div {
     background: #fff;
 }
 
-/*@media only screen and (max-width: 1000px) {
-    header {
-        padding: 0 20px;
-    }
-    header .header-right .hamburger {
-        display: block;
-    }
-    header .header-left #nav_main {
-        margin: 0;
-        position: absolute;
-        top: -100%;
-        left: 0;
-        width: 100%;
-        height: fit-content;
-        background-color: white;
-        padding: 30px;
-        transition: 0.3s;
-        text-align: center;
-        color: black;
-    }
-    header .header-left #nav_main.active {
-        top: 70px;
-    }
-    header .header-left #nav_main ul {
-        display: block;
-        color: white;
-    }
-}
-@media only screen and (max-width: 500px) {
-    nav .login-signup {
-        display: block;
-        margin-top: 20px;
-    }
-    header .header-right .login-signup {
-        display: none;
-    }
-}*/
 /*Sem-2*/
 h1,h2
 {
@@ -327,7 +290,7 @@ h1,h2
     display: flex;
     position: relative;
 }
-/**********************Rating Us**********************/
+
 
 #kl button
 {
